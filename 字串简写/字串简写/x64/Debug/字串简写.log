@@ -1,0 +1,3 @@
+﻿  tes.cpp
+D:\code\grammar-habits-of-c\字串简写\字串简写\tes.cpp(12,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字串简写.vcxproj -> D:\code\grammar-habits-of-c\字串简写\x64\Debug\字串简写.exe
